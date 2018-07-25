@@ -1,0 +1,63 @@
+.backset {
+    background-color: lightgray;
+}
+
+.pie {
+    border-radius: 250px;
+    border: black;
+    border-color: black;
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    position:fixed;
+}
+
+.verticle-line {
+    background-color: gray;
+    height: 2px;
+    margin-top: 250px;   
+}
+
+.horizontal-line {
+    margin-top: -250px;
+    background-color: gray;
+    height: 500px;
+    width: 2px;
+    margin-left: 250px;
+}
+
+.redtext {
+    margin-top: -350px;
+    color: white;
+    height: 1px;
+    width: 2px;
+    margin-left: 100px;
+    position:fixed;    
+}
+
+.yellowtext {
+    margin-top: -350px;
+    color: white;
+    height: 1px;
+    width: 2px;
+    margin-left: 350px;
+    position:fixed;   
+}
+
+.bluetext {
+    margin-top: -175px;
+    color: white;
+    height: 1px;
+    width: 2px;
+    margin-left: 100px;
+    position:fixed;  
+}
+
+.greentext {
+    margin-top: -175px;
+    color: white;
+    height: 1px;
+    width: 2px;
+    margin-left: 350px;
+    position:fixed; 
+}
